@@ -18,6 +18,14 @@ Next up was a training at the Pueblo County Democratic headquarters.  One guy wh
 
 At 2:00pm, we went over to the Town Hall to collect signatures and walk with the Women's March.  A lot of other candidates were also there, and there was sort of a turf war over signature collecting.  It was a beautiful day outside and there was a really positive mood coming from everyone participating in the March, but it was still an exhausting few hours for the Bray team. Diana seemed to be growing more and more frustrated as the March went on.  We got some insight into the situation as we drove home after it was over.  Early on in the race, Diana had proposed an alliance between two other progressive female candidates and herself.  The plan was to publically join together to fundraise and promote each other, trying to make a big splash on the national stage, winning attention from the media and drawing donations on behalf of their female alliance.  Then, whoever was polling the highest before the Primary would stay in the race, while the other two would drop out and support the highests poller, thereby solidifying the progressive vote and giving a small-time candidate the chance to compete with the establishment Dems.  One of the women had declined to join the alliance, saying it wasn't in her best interest to join with Diana.  Today, it was clear that the other two had paired up to support each other, leaving Diana on the sidelines.  She had been completely trapped by her own plan.
 
+![](https://github.com/wkelley11/BraySenate2020blog/blob/master/photos/20200125_150814.jpg)
+Diana getting the signature of Stephanie Rose Spaulding, another candidate planning to caucus onto the ballot.
+
+
+### "Show up for your sisters, not just your cisters"
+![](https://github.com/wkelley11/BraySenate2020blog/blob/master/photos/20200125_154155.jpg)
+Just two dude supporting trans rights.
+
 ### Friday, January 24
 
 We had to vacate the house at 10:00am because Diana's client was coming for their weekly appointment, so Chris and I decided to try our hands at signature collecting.  We put on our "Volunteer Circulator" badges and headed to the D.U. campus a few blocks from the house.  After about 30 minutes of floundering around looking for highly trafficked areas and being asked to leave various vicinities (culminating with Chris being escorted from the library to the closest sidewalk by two Campus Security officers), we found a great crosswalk that most people leaving class had to walk through to get to the library and dining hall.  Once we set up shop there, we found decent success for a while in between class periods.  After that dried up, we headed back to the house to start contacting any and everyone we could.  Even though collecting signatures didn't feel like a very rewarding process, Nathan Steele was totally right; in order to get signatures, you need to be asking for signatures.  24/7.
@@ -28,6 +36,8 @@ Given its name and description as, "THE ONLY LGBTQA+ CANNABIS PARTY IN THE NATIO
 
 It was really painful to be walking around with a badge that said "Volunteer Circulator," asking people if they were registered Democrats.  Everyone was incredibly nice about it, but that's an unprecedented level of lame.  Being "that guy" at a party doesn't even begin to scrape the depths of low that being "Volunteer Circulator" at a party achieves.  That being said, the organizers were incredibly supportive, and made sure everyone knew to find us to sign for Diana if they were Democrats.  Eventually, we were able to ditch the clipboards and enjoy the party.  
 
+![](https://github.com/wkelley11/BraySenate2020blog/blob/master/photos/20200124_221241.jpg)
+Chris with Arend, the founder of WeedTube (wearing his gift from Leigh, Diana's husband).
 
 
 ### Thursday, January 23
