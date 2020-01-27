@@ -19,11 +19,13 @@ Next up was a training at the Pueblo County Democratic headquarters.  One guy wh
 At 2:00pm, we went over to the Town Hall to collect signatures and walk with the Women's March.  A lot of other candidates were also there, and there was sort of a turf war over signature collecting.  It was a beautiful day outside and there was a really positive mood coming from everyone participating in the March, but it was still an exhausting few hours for the Bray team. Diana seemed to be growing more and more frustrated as the March went on.  We got some insight into the situation as we drove home after it was over.  Early on in the race, Diana had proposed an alliance between two other progressive female candidates and herself.  The plan was to publically join together to fundraise and promote each other, trying to make a big splash on the national stage, winning attention from the media and drawing donations on behalf of their female alliance.  Then, whoever was polling the highest before the Primary would stay in the race, while the other two would drop out and support the highests poller, thereby solidifying the progressive vote and giving a small-time candidate the chance to compete with the establishment Dems.  One of the women had declined to join the alliance, saying it wasn't in her best interest to join with Diana.  Today, it was clear that the other two had paired up to support each other, leaving Diana on the sidelines.  She had been completely trapped by her own plan.
 
 ![link](https://github.com/wkelley11/BraySenate2020blog/blob/master/photos/20200125_150814.jpg)
+<img src="https://github.com/wkelley11/BraySenate2020blog/blob/master/photos/20200125_150814.jpg" alt="Diana @ Women's March" width="200"/>
 Diana getting the signature of Stephanie Rose Spaulding, another candidate planning to caucus onto the ballot.
 
 
 ### "Show up for your sisters, not just your cisters"
 ![](https://github.com/wkelley11/BraySenate2020blog/blob/master/photos/20200125_154155.jpg)
+<img src="https://github.com/wkelley11/BraySenate2020blog/blob/master/photos/20200125_154155.jpg" alt="Cowboiz for Trans Rights!" width="200"/>
 Just two dude supporting trans rights.
 
 ### Friday, January 24
@@ -37,6 +39,7 @@ Given its name and description as, "THE ONLY LGBTQA+ CANNABIS PARTY IN THE NATIO
 It was really painful to be walking around with a badge that said "Volunteer Circulator," asking people if they were registered Democrats.  Everyone was incredibly nice about it, but that's an unprecedented level of lame.  Being "that guy" at a party doesn't even begin to scrape the depths of low that being "Volunteer Circulator" at a party achieves.  That being said, the organizers were incredibly supportive, and made sure everyone knew to find us to sign for Diana if they were Democrats.  Eventually, we were able to ditch the clipboards and enjoy the party.  
 
 ![](https://github.com/wkelley11/BraySenate2020blog/blob/master/photos/20200124_221241.jpg)
+<img src="https://github.com/wkelley11/BraySenate2020blog/blob/master/photos/20200124_221241.jpg" alt="Toph and 'David' the WeedTuber" width="200"/>
 Chris with Arend, the founder of WeedTube (wearing his gift from Leigh, Diana's husband).
 
 
