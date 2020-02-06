@@ -1,6 +1,47 @@
 # January, 2020
 You can find the campaign website [here](https://dianaforcolorado.com/).
 
+## Week 4
+
+### Sunday, February 2
+Super Bowl Sunday is only exciting if you psych yourself up about it.  Seeing as the Kansas City Chiefs were trying to win their first Super Bowl ever, Chris (a big Chiefs fan), had no problem getting everyone excited.  Even though Chris wasn't even going to watch the game with us, Leigh, Diana's husband, tried to make it a festive occasion.  Essentially, that meant grilling pork ribs for 8 hours.   
+
+After the game, I finished packing and said my goodbyes to Diana.  Since the election is far from over, it is difficult to just up and leave.  I'm happy with the work I was able to do while I was there, but I would feel better if I were able to see the election through until the end.  
+
+### Saturday, February 1
+
+Technically, our internship "ended" on the 31st, but there is always more work to be done.  I finished up cleaning all of the voter data from the Secretary of State's Office, running it through a few programs to make it more usable for Diana.  This ended up taking a good portion of the morning because the file were so large!  The genome data I worked with this past summer was a much larger data set, but we were using a super-computer to analyze it so I didn't really notice.  It felt like I was back in middle school, waiting for hours for a few songs to download from the internet.  It all loaded eventually, and I showed Diana how to look through the file, filter voters by specific characteristics (Congressional District, precinct, country, etc.).  It felt good to have made something tangible that could be used.  
+
+That afternoon, we met up with a friend at a tea place near downtown Denver.  He graduated from Middlebury last year, and is spending the year working as an aide in public schools around Denver.  It was interesting to hear his perspective on Colorado politics.  In just a month, we had heard almost every politician in the state give their analysis of the current situation and what should be done about it.  Our friend, Kyle, on the other hand, had been interacting with the kids who are actually affected by decisions they have no say over.  His opinions were certainly not the same as many politicians'.
+
+Following that date, we met up with another friend, the son of Rep. Arndt, who had just flown in from Washington D.C.  We drove him up to Fort Collins and spent the night there, getting a short tour of the town and meeting the rest of his family.  The next morning, we drove back for our last day in Denver. 	
+
+### Friday, January 31
+On Friday morning, we were lucky enough to have the opportunity to be shown around the Capitol building by none other than the honorable Jeni Arndt, a state representative from Fort Collins and the mother of a good friend of ours.  Diana was seeing her patient that morning, so this worked out perfectly.  We got to the state house around 9:00 and were met by her aide (Trenton?).  We met Jeni outside the Assembly room, in the "lobby," where she was being graciously hounded by a man she introduced simply as, "a lobbyist."  Even though I interned for a NYS Senator after high school, I completely forgot that there was a dresscode on the floor of the legislative chambers.  Chris and I showed up wearing a t-shirt and an old denim button down, respectively.  I was also sporting a beanie to cover my unwashed hair.  The usher gave us an apprehensive look-over as we walked in, but Jeni just laughed and waved us along.  I was asked to take off my hat, and it took a great effort not to hang it among the many cowboy hats that rested on hooks along the back of the chamber. 
+
+Jeni walked us through a few of the bills on the docket for that day, and told us specifically about her efforts to pass a bill banning the deal penalty in Colorado.  She had the support in both the Assembly and the Senate, and was confident it would go through in the coming days.  After she was called away to a meeting of the Democratic Caucus of assembly people, we headed over to observe the proceeding in the Senate chamber.  Sure enough, a Senator was on the floor speaking in favor of the death penalty.  It is, he said, the only punishment severe enough for certain crimes.  I couldn't quite puzzle together how that fit with his declaration that, "I am pro-life, through and through."  I guess pro life → pro death penalty?  Either way, Jeni had mentioned this guy, and was confident that his speech would not threaten bicameral support for the bill.  Apparently, she had found a common group with a bunch of Catholic Republicans who were supporting the bill in the Senate.  
+
+After that, we went quickly back to the house to regroup before heading back to the Capitol to collect signatures at a climate rally organized to coincide with "Outdoor Retailers," the country's largest outdoor gear convention.  All of the major major sporting goods companies were represented there, and protesters came to demand that the brands step up to combat climate change and protect natural resources.  For a climate candidate like Diana, this was a great opportunity to collect signatures.  I thought that the speakers at the rally did a great job, although it would have been nice if they didn't have to "protest," and instead had a seat at the table along with the major companies inside the convention. 
+
+That night, we finalized the endorsement application to the AFL-CIO and submitted it ahead of Diana's interview with their local group the next afternoon, on Saturday.
+
+### Thursday, January 30
+Diana went to a doctor to have a few tests run and make sure everything was alright.  Chris and I spent the day outreaching to volunteers and preparing petitioning packets for a few people who had filled theirs up already or wanted to start collecting signatures.  I also wrote the program to geocode the voter data using a service called Geocodio, which was the cheapest and most straightforward API for our purposes.  Diana came back later that night with all good news from the doctor.  
+
+
+### Wednesday, January 29
+This morning, I started the application for an endorsement from "Our Revolution," the progressive advocacy group that Diana had joined on Saturday to record a podcast.  After answering 18 pages of policy questions, I got back to work setting up a mapping program using the voter data from the Secretary of State.  I made a small program to be able to search through each list (~500k) of voters so that we could verify the signatures we were collecting as registered Dems.  Then I returned to my search for an accurate, cheap, high volume geocoding service.  I wrote some code and read through the documentation of a few different services to test them out.  I landed on one that could provide other data like state Senate and Congressional District (which isn't included in the S.o.S data).  It would cost about $3,000.00 to run all of our data through the program at once, but by spreading it out over a few days and using different API keys, we should be able to get the geocodes much more cheaply.  
+
+Later in the day, Diana was scheduled to appear at a candidate forum in a neighborhood on the outskirts of Denver.  She had been feeling under the weather for the entire day, so she decided to go see a doctor instead of going to the forum.  Chris and I were sent in her stead, and spoke to community members about Diana's platform and why she was running.  (Un)fortunately, the organizers did not allow any surrogates to speak for the candidates on stage, so we sat in the audience and watched as the others (except Hickenlooper, who declined the invitation) fielded a series of questions.
+
+### Tuesday, January 28
+We drove up to Copper with Leigh on Monday night, and spent today skiing in beautiful conditions.  There wasn't a cloud in the sky, and they had opened up an entire bowl on the backside.  Since that area is usually closed due to avalanche risk, there was probably a square mile of untouched snow for us to ski down.  We drove back to Denver Tuesday night.
+
+### Monday, January 27
+This morning we were scheduled to get the Colorado voter registry data from the Secretary of State's office.  I answered questions for a few different endorsement applications in the morning while Chris went downtown to pick up the CD with the data (and get Diana a new PopSocketTM).  As soon as the data arrived, we got to work figuring out how we could best use it to target potential supporters.  The initial plan was to map all of the registered Democrats in the state to model the functionality of VAN (Voter Access Network), a service developed by the Democratic Party to help candidates canvass effectively.  In order to map the addresses included in the voter registry using available GIS software, we need to generate geocodes (latitude and longitude) for each address.  Unfortunately, many of the "free" geocoding services (OpenStreetMaps, Google, Bing, etc.) charge pretty substantial fees after about 1,000 "requests," or addresses submitted to the site to be geocoded.  There are about 3 million registered voters in Colorado.  
+
+
+
 ## Week 3
 
 ### Sunday, January 26
